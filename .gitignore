@@ -1,4 +1,4 @@
 .DS_Store
-
-# Documentation Site
-/docs
+_site
+.sass-cache
+.jekyll-metadata
