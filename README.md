@@ -8,7 +8,6 @@ var flatButton = MDCFlatButton.button()
 ~~~~~~~~~~~~
 {: refdef}
 
-{::options parse_block_html="true" /}
 <div class="material-code-render">
 
 ~~~objective_c
