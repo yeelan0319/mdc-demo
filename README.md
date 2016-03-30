@@ -1,20 +1,11 @@
-{:refdef: .material-code-render}
-~~~~~~~~~~~~objective_c
-[self.view addSubView:flatButton];
-~~~~~~~~~~~~
-{: refdef}
-~~~~~~~~~~~~swift
-var flatButton = MDCFlatButton.button()
-~~~~~~~~~~~~
-{: refdef}
-
-<div class="material-code-render">
-
-~~~objective_c
+~~~objective_c{1}
 [self.view addSubView:flatButton];
 ~~~
+
 ~~~swift
-var flatButton = MDCFlatButton.button()
+var button = MDButton.button()
 ~~~
 
-</div>
+```swift{1}
+var Button = MDButton.button()
+```
